@@ -29,6 +29,8 @@ Requirements:
 
 - matplotlib.pyplot
 
+- numpy
+
   
 
 # Contents
