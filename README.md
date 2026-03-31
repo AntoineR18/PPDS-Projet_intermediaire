@@ -3,7 +3,7 @@
 
 Antoine Rustenholz, Aziz Seghaier, Jasmin Neveu
 
-  
+
 
 # Project Overview
 
@@ -19,7 +19,7 @@ pip install -r requirements.txt
 
 ```
 
-  
+
 
 Requirements:
 
@@ -29,9 +29,13 @@ Requirements:
 
 - matplotlib.pyplot
 
+- matplotlib.colors
+
+- cartiflette
+
 - numpy
 
-  
+
 
 # Contents
 

@@ -1,4 +1,6 @@
 pandas
 matplotlib.pyplot
+matplotlib.colors
+cartiflette
 great_tables
 numpy
