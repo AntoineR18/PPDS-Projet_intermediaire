@@ -27,6 +27,8 @@ Requirements:
 
 - great_tables
 
+- matplotlib.pyplot
+
   
 
 # Contents
