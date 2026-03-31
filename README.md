@@ -25,13 +25,11 @@ Requirements:
 
 - pandas
 
-- great_tables
-
-- matplotlib.pyplot
-
-- matplotlib.colors
+- matplotlib
 
 - cartiflette
+
+- great_tables
 
 - numpy
 
